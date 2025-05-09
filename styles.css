@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    background-image: linear-gradient(aqua, black),
+    url("/assets/sky.png");;
+}
+
+canvas {
+    border: 5px solid #000;
+    box-sizing: border-box;
+}
