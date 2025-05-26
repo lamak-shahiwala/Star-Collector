@@ -30,4 +30,4 @@
 
 ---
 ## Play The Game
-You can play **Star Collector** at (click!)[https://lamak-shahiwala.github.io/Star-Collector/]
+You can play **Star Collector** at here. [Click!](https://lamak-shahiwala.github.io/Star-Collector/)
